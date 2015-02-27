@@ -1,5 +1,6 @@
 import webbrowser
 
+# base class for Fresh Tomatoes movie website project
 class Movie() :
 
 	def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube,
